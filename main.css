@@ -1,0 +1,85 @@
+
+@font-face{
+	font-family: '8-Bit';
+	src: url('font.ttf');
+}
+
+* {
+	background: black;
+	color: linear-gradient(magenta);
+	font-family: '8-Bit';
+	padding: 10px;
+	cursor: default;
+	user-select: none;
+}
+
+iframe {
+	border: 2px solid aqua;
+	box-shadow: 0 0 20px 10px aqua;
+	border-radius: 10px;
+}
+
+button {
+	background: aqua;
+	color: yellow;
+}
+
+strong {
+	color: yellow;
+	text-shadow: none;
+}
+
+a {
+	color: aqua;
+	text-shadow: 2px 2px yellow;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow;
+	text-shadow: 2px 2px aqua;
+	text-decoration: underline;
+}
+
+h1 {
+	color: yellow;
+	text-shadow: none;
+}
+
+h2 {
+	color: yellow;
+	text-shadow: none;
+}
+
+h3 {
+	color: yellow;
+	text-shadow: none;
+}
+
+h4 {
+	color: yellow;
+	text-shadow: none;
+}
+
+h5 {
+	color: yellow;
+	text-shadow: none;
+}
+
+h6 {
+	color: yellow;
+	text-shadow: none;
+}
+
+.banner {
+	margin: 5px;
+	padding: 5px;
+}
+
+.main {
+	font-size: 24px;
+	color: magenta;
+	text-shadow: 2px 2px yellow;
+}
+
