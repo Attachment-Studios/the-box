@@ -24,7 +24,7 @@ button {
 	background: aqua;
 	color: magenta;
 	border-radius: 10px;
-	font-size: 24px;
+	font-size: inherit;
 	padding: 10px;
 	cursor: pointer;
 	outline: none;
